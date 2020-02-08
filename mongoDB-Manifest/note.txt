@@ -4,4 +4,4 @@
 
 3. storageClass ==>> change the provisioner to meet the aws 
 
-4. what the hell is SideCar???
+4. what the hell is SideCar??? this is the concept that you have to grasp
