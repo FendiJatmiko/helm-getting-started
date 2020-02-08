@@ -1,0 +1,7 @@
+1. change the container name on Statefulset
+
+2. special attention on sidecar-k8s-
+
+3. storageClass ==>> change the provisioner to meet the aws 
+
+4. what the hell is SideCar???
